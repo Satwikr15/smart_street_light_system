@@ -31,4 +31,4 @@ The Smart Street Light System is an energy-efficient solution that reduces elect
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/SmartStreetLightSystem.git
+   git clone https://github.com/Satwikr15/SmartStreetLightSystem.git
